@@ -1,5 +1,13 @@
 body{
     text-align: center;
+    background-color: rgb(35, 32, 32);
+    color: white;
+}
+
+.h1{
+    font-size: 3rem;
+    margin: 2rem;
+    border-radius: 10px;
 }
 .btn{
     
