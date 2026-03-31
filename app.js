@@ -66,7 +66,7 @@ function checkAns(idx){
        document.querySelector("body").style.backgroundColor="white";
 
 
-       },250);
+       },200);
         reset();
         }
 }
